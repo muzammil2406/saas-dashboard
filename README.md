@@ -56,7 +56,7 @@ A responsive, interactive dashboard application built with ReactJS that showcase
 ## How to install and run locally?
 
 ```
-$ git clone https://github.com/muzammil2406/SaaS-Dashboard.git
+$ git clone https://github.com/muzammil2406/saas-dashboard.git
 $ cd byewind
 $ npm install
 $ npm run dev
