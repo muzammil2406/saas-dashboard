@@ -1,6 +1,6 @@
 # Saas-Dashboard
 
-A responsive, interactive dashboard application built with ReactJS that showcase Ecommerce metrics, Revenue charts, Top selling products, Functional Order list, Notifications.
+This project is a modern, responsive dashboard built using React.js and Tailwind/MUI (or your chosen UI library). It showcases core e-commerce insights — revenue and sales trends, customer-facing top-seller highlights, and a robust order management table with selection, filtering, sorting, and pagination. The UI emphasizes accessibility and UX with smooth micro-interactions, theme support (light/dark), and toast notifications for user feedback. Charts are implemented using Recharts for interactive data visualization.
 
 ## **Technologies used :**
 
